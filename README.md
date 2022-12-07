@@ -6,7 +6,9 @@ Ola´! Estou usando o github como portifólio com os códigos que crio enquanto 
 *   🌍  I'm based in Canoas/RS - Brasil
 *   ✉️  You can contact me at [estherjdorneles@gmail.com](mailto:estherjdorneles@gmail.com)
 *   🧠  I'm learning React
-*   ⚡  Escritora de crônicas e alguns contos e desenho gatos bonitos### Skills 
+*   ⚡  Escritora de crônicas e alguns contos e desenho gatos bonitos
+
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
